@@ -20,8 +20,6 @@ rtp://@239.1.1.21:8100
 rtp://@239.1.1.15:8064
 #EXTINF:-1 logo="https://images.useetv.com/logo_indosiar_big1.png" group-title="LOKAL",INDOSIAR
 rtp://@239.1.1.17:8076
-#EXTINF:-1 logo="https://images.useetv.com/logo_indosiar_big1.png" group-title="LOKAL",INDOSIAR LIGA 1
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 #EXTINF:-1 logo="https://images.useetv.com/logo_net_big1.png" group-title="LOKAL",NET.
 rtp://@239.1.1.119:8688
 #EXTINF:-1 logo="https://images.useetv.com/logo_kompastv_big1.png" group-title="LOKAL",Kompas TV
@@ -96,7 +94,7 @@ rtp://@239.1.1.173:9012
 rtp://@239.1.1.227:9336
 
 #GEN ENT
-#EXTINF:-1 logo="https://images.useetv.com/logo_insert_big1.png group-title="GEN ENTERTAINMENT",INSERT
+#EXTINF:-1 logo="https://images.useetv.com/logo_insert_big1.png" group-title="GEN ENTERTAINMENT",INSERT
 rtp://@239.1.1.113:8652
 #EXTINF:-1 logo="https://i.ibb.co/N2QyPx7/foxlife.png" group-title="GEN ENTERTAINMENT",FOX Life
 rtp://@239.1.1.171:9000
